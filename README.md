@@ -5,7 +5,7 @@ I helped put together the ethernet cables that helped supply the different instr
 |Tag| FIT525A    |       PIT525A        |       PIT525B      | TE 525A |  
 |Manufacturer|Endress+Hauser|Endress+Hauser|Endress+Hauser|OMEGA|
 |Model|8F3B08|FMB70|PMP71B|580489|
-|Parameters|Flow rate|Pressure|Pressure|Temperature|
+|Parameters|Flow |Pressure|Pressure|Temperature|
 
 ![Logo](https://github.com/henthornlab/ProcessAnalytics/blob/master/2025-install/IMG_8269.jpeg)
 ![Logo](https://github.com/henthornlab/ProcessAnalytics/blob/master/2025-install/IMG_8271.jpeg)
